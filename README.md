@@ -22,13 +22,13 @@
 - 📐 **Control de Formato:** Exporta tu trabajo final con precisión utilizando formatos estándar de la industria (A4, Carta, Legal) y control total sobre los márgenes.
 - 🚀 **Rendimiento Nativo:** Construido sobre **Tauri OS** y Rust, ofreciendo un consumo mínimo de RAM y CPU en comparación con las apps tradicionales basadas en Electron.
 
-## 🚀 Descarga e Instalación
+## 💰 Compra y Descarga
 
-1. Ve a la sección de [Releases](https://github.com/yeib/PDFyeib/releases) en este repositorio.
-2. Descarga el último instalador `.exe` para Windows.
-3. ¡Instala y comienza a arrastrar archivos!
+**Precio Oficial:** $4.99 USD *(Pago único de por vida. Cero suscripciones).*
 
-*(Próximamente disponible en la Microsoft Store).*
+> ⏳ **¡Enlaces de compra próximamente! (Gumroad / Lemon Squeezy)**
+
+*(Próximamente también disponible en la Microsoft Store).*
 
 ## 🎯 ¿Para quién es esto?
 
