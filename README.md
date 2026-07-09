@@ -1,5 +1,5 @@
 <div align="center">
-  ![PDF Yeib Banner](/root/.gemini/antigravity-cli/brain/4258c03e-a500-4f74-a7d0-cd6089bb01c5/pdf_yeib_banner_1783578461926.jpg)
+  ![PDF Yeib Banner](./banner.jpg)
   <br/>
   <h1>PDF Yeib</h1>
   <p><strong>Gestión, edición y conversión visual de documentos PDF 100% Offline y Privado.</strong></p>
