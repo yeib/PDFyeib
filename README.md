@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" alt="PDF Yeib Banner" style="max-width: 100%; border-radius: 12px; margin-bottom: 15px;">
+  <img src="banner.jpg" alt="PDF Yeib Banner" width="400" />
   <br/>
   <h1>PDF Yeib</h1>
   <p><strong>Gestión, edición y conversión visual de documentos PDF 100% Offline y Privado.</strong></p>
@@ -36,7 +36,7 @@ Para el estudiante que necesita unir sus apuntes en fotos con PDFs del profesor.
 
 ## 🤝 Soporte y Contacto
 
-Si tienes alguna idea genial o encuentras un bug, siéntete libre de abrir un **Issue** en este repositorio. ¡Estaré encantado de leerte!
+Si tienes alguna idea genial o encuentras un bug, siéntete libre de enviarme un correo. ¡Estaré encantado de leerte!
 
 ---
 <div align="center">
