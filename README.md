@@ -1,5 +1,5 @@
 <div align="center">
-  ![PDF Yeib Banner](./banner.jpg)
+  <img src="./banner.jpg" alt="PDF Yeib Banner" style="max-width: 100%; border-radius: 12px; margin-bottom: 15px;">
   <br/>
   <h1>PDF Yeib</h1>
   <p><strong>Gestión, edición y conversión visual de documentos PDF 100% Offline y Privado.</strong></p>
