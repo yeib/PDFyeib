@@ -16,9 +16,14 @@
 ## ✨ Características Principales
 
 - 🛡️ **100% Privacidad Local:** El motor de renderizado y conversión funciona completamente sin conexión. Tus contratos, fotos y datos nunca abandonan tu computadora.
-- 🗂️ **Fusión Universal (Drag & Drop):** Arrastra y suelta documentos PDF, imágenes (`.jpg`, `.png`, `.webp`, `.bmp`, `.gif`) y archivos de texto (`.txt`) en una sola interfaz visual.
-- 📝 **Motor Inteligente de Texto a PDF:** Transforma archivos `.txt` planos en documentos PDF perfectamente formateados con saltos de página y márgenes automáticos.
-- ✂️ **Estudio de Recorte Integrado:** Encuadra, haz zoom y recorta imágenes directamente dentro de la aplicación antes de exportar, con proporciones predefinidas (A4, Cuadrado, Libre, etc.).
+- 🗂️ **Fusión Universal (Drag & Drop):** Arrastra y suelta documentos PDF, imágenes (`.jpg`, `.png`, `.webp`, `.bmp`, `.gif`) y archivos de texto o Markdown (`.txt`, `.md`) en una sola interfaz visual.
+- 🔐 **Desencriptado de PDFs en vivo:** Arrastra PDFs con contraseña y desbloquéalos en el momento ingresando la clave; PDF Yeib los re-empaquetará limpios y sin restricciones.
+- 🪄 **Modo Escáner (Mejora de Imagen):** Convierte instantáneamente fotos de documentos a blanco y negro con alto contraste para un acabado profesional que ahorra espacio.
+- 📝 **Soporte de Markdown (.md):** Transforma archivos `.md` en documentos PDF perfectamente formateados (los títulos `#` y `##` se renderizan automáticamente en gran tamaño y negrita).
+- 🏷️ **Tarjetas de Título y Separadores:** Genera rápidamente páginas de separación de texto "al vuelo" directamente en la aplicación sin necesitar programas externos.
+- 📑 **Marcas de Agua y Numeración:** Estampa "CONFIDENCIAL" (u otro texto) en diagonal sobre tu PDF final e incluye numeración automática de páginas de forma nativa.
+- ✂️ **Estudio de Recorte Integrado:** Encuadra, haz zoom y recorta imágenes directamente dentro de la aplicación antes de exportar, con proporciones predefinidas.
+- 📦 **Acciones Masivas:** Selecciona docenas de páginas con un solo clic para rotarlas o eliminarlas en grupo, agilizando el flujo de trabajo en archivos grandes.
 - 📐 **Control de Formato:** Exporta tu trabajo final con precisión utilizando formatos estándar de la industria (A4, Carta, Legal) y control total sobre los márgenes.
 - 🚀 **Rendimiento Nativo:** Construido sobre **Tauri OS** y Rust, ofreciendo un consumo mínimo de RAM y CPU en comparación con las apps tradicionales basadas en Electron.
 
