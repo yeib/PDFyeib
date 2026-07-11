@@ -51,8 +51,7 @@ Para el estudiante que necesita unir sus apuntes en fotos con PDFs del profesor.
 
 ## Soporte y Contacto
 
-Si tienes alguna idea genial o encuentras un bug, siéntete libre de enviarme un correo. ¡Estaré encantado de leerte!
-
+Si tienes alguna idea genial o encuentras un bug, siéntete libre de enviarme un correo. ¡Estaré encantado de leerte! yeib@pm.me
 <br/>
 
 <div align="center">
