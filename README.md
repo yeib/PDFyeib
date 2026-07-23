@@ -1,66 +1,75 @@
-<div align="center">
-  <img src="logo.png" alt="PDF Yeib Logo" width="100" />
-  <h1>PDF Yeib</h1>
-  <img src="https://raw.githubusercontent.com/yeib/PDFyeib/main/banner.jpg" alt="PDF Yeib Banner" width="400" />
-  <br/><br/>
-  <strong>El manipulador definitivo de PDFs. 100% Offline, privado y a la velocidad de la luz.</strong>
-  <br/><br/>
-  
-  [![Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)](https://github.com/yeib/PDFyeib/releases)
-  [![Privacidad](https://img.shields.io/badge/Privacidad-100%25_Local-success?style=flat-square)](https://github.com/yeib/PDFyeib)
-  [![Tauri](https://img.shields.io/badge/Construido_con-Tauri_%2B_Rust-orange?style=flat-square&logo=tauri)](https://tauri.app/)
-</div>
+# 📄 PDF Yeib — Complete Offline PDF Suite & Native OCR for Windows
 
-<br/>
+<p align="center">
+  <img src="https://yeib.cl/images/pdfyeib_logo.png" alt="PDF Yeib Logo" width="128" height="128" />
+</p>
 
-**PDF Yeib** es una herramienta de escritorio ultraligera diseñada para resolver el caos del día a día con documentos e imágenes. Olvídate de competir con pesados editores como Adobe o de usar sitios web como *I Love PDF* que te obligan a subir tus contratos privados a la nube. **Tu información nunca abandona tu computadora.**
+<p align="center">
+  <b>La suite completa de gestión de PDFs y reconocimiento óptico de caracteres (OCR) 100% offline para Windows.</b><br/>
+  Combina, divide, comprime y extrae texto de tus documentos sin subir información privada a la nube.
+</p>
 
-Construido sobre **Tauri y Rust**, delega todo el procesamiento masivo de memoria (*byte streams*) a hilos en segundo plano. ¿El resultado? Puedes ensamblar libros completos sin comerse tu RAM ni congelar la interfaz.
-
----
-
-## 🚀 Características Principales (Lo que nos hace únicos)
-
-- 🔒 **Privacidad Absoluta (100% Local):** El motor de renderizado y conversión funciona completamente offline. Tus documentos nunca tocan un servidor externo.
-- 🗂️ **Fusión Universal y Ordenamiento:** Arrastra y suelta documentos PDF, imágenes (`.jpg`, `.png`, `.webp`, `.bmp`, `.gif`) y archivos de texto (`.txt`, `.md`) en una sola interfaz visual. **Reordena las hojas a tu antojo** antes de exportar un único documento consolidado.
-- 📐 **Control Total de Salida:** Exporta tu trabajo final con precisión utilizando formatos estándar de la industria (A4, Carta, Legal) y define el tamaño específico de salida con márgenes personalizados.
-- 📄 **Creador de Separadores y Texto:** Transforma archivos Markdown (`.md`) o de texto plano en documentos PDF formateados, o genera rápidamente páginas de "Separador de Título" al vuelo sin necesitar programas externos.
-- 👁️‍🗨️ **Extracción OCR Inteligente:** Convierte imágenes escaneadas a texto seleccionable y copiable en milisegundos utilizando el motor nativo de Windows (sin librerías pesadas).
-- 🔓 **Desbloqueo y Password Remover:** Arrastra PDFs bloqueados, ingresa la clave una vez, y PDF Yeib re-empaquetará el archivo limpio y sin restricciones de impresión o edición.
-- 🗜️ **Compresión Ultrarrápida:** Reduce drásticamente el peso de tus PDFs para que puedan ser enviados por correo sin perder legibilidad.
-- ✂️ **Split & Manipulación Masiva:** Divide PDFs gigantes, y selecciona docenas de páginas con un clic para rotarlas, recortarlas o eliminarlas en grupo.
-- 🖋️ **Marcas de Agua y Numeración:** Estampa "CONFIDENCIAL" en diagonal sobre tu PDF final e incluye numeración automática de páginas de forma nativa.
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9MST8VSWDZD7"><img src="https://img.shields.io/badge/Microsoft%20Store-Certified-blue?style=for-the-badge&logo=microsoft" alt="Microsoft Store Certified" /></a>
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-0078D4?style=for-the-badge&logo=windows" alt="Windows 10/11" />
+  <img src="https://img.shields.io/badge/Offline-100%25%20Local-success?style=for-the-badge" alt="100% Offline" />
+  <img src="https://img.shields.io/badge/Engine-Rust%20%2B%20Tauri-orange?style=for-the-badge&logo=rust" alt="Rust Core" />
+</p>
 
 ---
 
-## 🦀 Tecnología bajo el capó
+## ✨ Características Principales
 
-Manipular decenas o cientos de archivos pesados suele devorar la memoria RAM en aplicaciones tradicionales (Electron, JS). En PDF Yeib, el control de memoria cruda de **Rust** ensambla y manipula flujos binarios masivos en milisegundos. Gracias a su estricto manejo de memoria (sin *garbage collector*), el consumo es mínimo y la interfaz gráfica en React se mantiene completamente fluida a 60FPS.
+### 🔍 Motor de OCR Nativo Offline (Extracción de Texto)
+- **OCR Local sin Internet:** Convierte documentos escaneados, imágenes (PNG, JPG, WebP) y capturas de pantalla en texto editable.
+- **Soporte Multilingüe:** Optimizado para Español, Inglés y procesamiento combinado.
+- **Privacidad Absoluta:** Ideal para contratos, estados de cuenta y documentos legales sensibles que no deben subirse a servidores web.
 
----
+### 📄 Unión y División de PDFs (Merge & Split)
+- **Combinar PDFs:** Une múltiples archivos PDF en un único documento organizado en segundos.
+- **Dividir y Extraer Páginas:** Extrae páginas individuales o rangos específicos de un PDF extenso.
+- **Reorganizar y Rotar:** Cambia el orden de las páginas o gíralas según sea necesario.
 
-## Compra y Descarga
+### 🗜️ Compresión de Archivos PDF
+- Reduce drásticamente el peso de tus PDFs para enviarlos por correo electrónico manteniendo la legibilidad de textos e imágenes.
 
-**Precio Oficial:** $4.99 USD *(Pago único de por vida. Cero suscripciones).*
-
-> **¡Enlaces de compra próximamente! (Gumroad / Lemon Squeezy)**
-
-*(Próximamente también disponible en la Microsoft Store).*
-
----
-
-## ¿Para quién es esto?
-
-Para el estudiante que necesita ordenar sus apuntes, fotos y PDFs en un solo lugar. Para el profesional que maneja contratos confidenciales y no puede arriesgarse a usar conversores web gratuitos. Para el investigador que extrae texto de cientos de imágenes. Para ti.
+### 🖼️ Conversor de Imágenes a PDF
+- Convierte imágenes de tus recibos, notas o fotos a documentos PDF limpios.
 
 ---
 
-## Soporte y Contacto
+## 🔒 100% Offline & Privacidad Garantizada
 
-Si tienes alguna idea genial o encuentras un bug, siéntete libre de enviar un correo a the_developer@example.com (reemplazar con el correcto si es necesario, he mantenido la estructura general). ¡Estaré encantado de leerte!
+A diferencia de los conversores e impresoras virtuales en línea que requieren conexión a internet y recopilan datos de tus documentos:
 
-<br/>
+- 🛡️ **Procesamiento 100% Local:** Toda la renderización y extracción por OCR se realiza en tu CPU/GPU local.
+- ⚡ **Velocidad Nativa en Rust:** Procesa archivos pesados sin congelar el sistema ni consumir gigabytes de RAM.
+- 🚫 **Sin Suscripciones Mensuales:** Licencia de pago único de por vida.
 
-<div align="center">
-  Hecho con ☕ y código por <a href="https://github.com/yeib">Yeib</a>.
-</div>
+---
+
+## 🛒 Descárgalo en la Microsoft Store
+
+**PDF Yeib** está disponible oficialmente en la Microsoft Store para Windows 10 y Windows 11:
+
+👉 **[Obtener PDF Yeib en Microsoft Store](https://apps.microsoft.com/detail/9MST8VSWDZD7)**
+
+*(ID de producto en la tienda: `9MST8VSWDZD7`)*
+
+---
+
+## 💻 Requisitos del Sistema
+
+- **Sistema Operativo:** Windows 10 (versión 1809 o superior) / Windows 11 (64-bit)
+- **Arquitectura:** x64 / AMD64
+- **Almacenamiento:** ~20 MB de espacio disponible
+
+---
+
+## 🌐 Créditos y Licencia
+
+Creado con ❤️ por **Yeib**  
+Sitio web oficial: [yeib.cl](https://yeib.cl)  
+Soporte & Contacto: [yeib@pm.me](mailto:yeib@pm.me)
+
+© 2026 Yeib. Todos los derechos reservados.
